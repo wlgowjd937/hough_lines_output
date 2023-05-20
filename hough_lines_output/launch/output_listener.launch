@@ -1,0 +1,3 @@
+<launch>
+  <node name="output_listener" pkg="hough_lines_output" type="output_listener" output="screen"/>
+</launch>
